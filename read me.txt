@@ -1,6 +1,6 @@
-1.The dataset first downloaded is 2019.1.13-2019.1.20. The latest time of file upload is July 14, 2020
+1.The dataset first downloaded is 2019.1.13-2019.1.20. The latest time of file upload is July 14, 2020.
 
-2.The dataset is downloaded from NCBI  Nucleotide Database Support Center according to the six types of viruses under the Baltimore virus classification system
+2.The dataset is downloaded from NCBI  Nucleotide Database Support Center according to the six types of viruses under the Baltimore virus classification system.
 
 3.The specific download method is as follows:
 
